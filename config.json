@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustervecrypt",
+        "uuid": 7546156,
+        "checksum": "bqxix"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
